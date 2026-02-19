@@ -1,0 +1,8 @@
+{
+  "type": "v86-swap",
+  "version": 1,
+  "size_bytes": 1073741824,
+  "size_mb": 1024,
+  "created": "2026-02-19T01:53:56.051Z",
+  "description": "V86 Virtual Memory Swap File - 1024MB"
+}
